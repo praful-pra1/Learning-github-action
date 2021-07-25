@@ -1,2 +1,2 @@
-# Learning-github-action
+# Google-photos-apis
 Created with CodeSandbox
